@@ -1,0 +1,21 @@
+{
+  "name": "kill-port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "type": "module",
+  "bin": {
+    "kill-port": "./index.js"
+  },
+  "scripts": {
+    "start": "./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "yargs": "^17.3.1"
+  }
+}
